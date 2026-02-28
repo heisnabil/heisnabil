@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/V8Bw6B6F9lVp6/giphy.gif" alt="Spider-Man Swinging Banner" width="100%" />
+  <img src="https://media.giphy.com/media/xTiTnHvXhW0M29KI76/giphy.gif" alt="Spider-Man Swinging Banner" width="100%" />
   
   # 🕸️ Hi 👋, I'm Shaikh Nabil Ahmed
   ### An AIML Engineering Student & Developer from India
@@ -56,14 +56,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heisnabil&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=E32400&text_color=FFFFFF&icon_color=0077CC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisnabil&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=E32400&text_color=FFFFFF" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heisnabil&theme=dark&background=0D1117&ring=E32400&fire=E32400&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heisnabil&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heisnabil&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
 <br>
