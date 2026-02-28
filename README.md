@@ -56,11 +56,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heisnabil&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heisnabil&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <a href="https://github.com/heisnabil">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heisnabil&theme=dark&background=0D1117&ring=E32400&fire=E32400&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" alt="Spider-Man Pointing" width="250px"/>
