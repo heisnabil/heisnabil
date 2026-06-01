@@ -63,7 +63,6 @@ Greetings, true believers! I am an AI enthusiast and engineering student who lov
 
 | 🏆 Title | 💡 Tech Stack | 🕷️ The Impact |
 | --- | --- | --- |
-| **[WiChain: Spoof Detection](https://github.com/heisnabil/WiChain)** | `Python`, `ML`, `Blockchain` | Achieved **94% recall** using hybrid ML models. Cut false alerts by 41% using blockchain logs. |
 | **[Railway Crack Detection](https://github.com/heisnabil/Railway-Crack-Detection)** | `OpenCV`, `TensorFlow`, `RPi` | Delivered **150ms inference** real-time crack detection; officially praised by Thane Railways! |
 | **[Pneumonia & Corona CNN](https://github.com/heisnabil/Pneumonia-and-Corona-Classification)** | `Python`, `Keras`, `CNNs` | Built a 14-layer CNN with **90% accuracy**. Officially published in the **IJCST Journal**. |
 | **[Student Stress Detection](https://github.com/heisnabil/Student-Stress-Detection)** | `Scikit`, `RandomForest` | Attained **87% accuracy** parsing behavioural patterns; powered by SHAP for explainable AI. |
