@@ -1,38 +1,49 @@
+<!-- 
+
+  NABIL.OS — Autonomous Intelligence Runtime
+  Built by Shaikh Nabil Ahmed
+  
+  This is not a README. This is a system manifest.
+
+-->
+
 <div align="center">
 
-  <!-- HERO TOP GRAPHIC BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:090d16&height=230&section=header&text=SHAIKH%20NABIL%20AHMED&fontSize=42&fontColor=38bdf8&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Published%20Researcher%20(IEEE%20%26%20IJCST)%20%E2%80%A2%20Department%20Topper%20(9.25%20CGPA)&descAlignY=62&descScale=16" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:131A2A,100:0d1117&height=150&section=header" width="100%" alt="" />
 
-  <br/>
+<br/>
 
-  <!-- DYNAMIC TYPING SVG BANNER -->
-  <a href="https://github.com/heisnabil">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Autonomous+Multi-Agent+AI+Systems+(FounderOS);IEEE+%26+IJCST+Published+Researcher+(WiChain+%26+Chest+X-Ray);Department+Topper+(9.25%2F10+CGPA)+%7C+B.E.+CSE+(AI%2FML);Charter+President+%40+NeurOnyx+ACM+Student+Chapter;IIIT+Delhi+HackArena+National+Finale+2nd+Runner-Up" alt="Typing Banner" />
-  </a>
+<img src="https://img.shields.io/badge/NABIL.OS-RUNTIME_v2.0-38bdf8?style=for-the-badge&labelColor=0d1117" alt="NABIL.OS" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- CONTACT & SOCIAL BADGES -->
-  <a href="https://nabil-ahmed-github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=090D16&color=38BDF8" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shaikh-nabil-ahmed-3439a2285/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:shaikhnabil529@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090D16" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/heisnabil">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=090D16" alt="GitHub" />
-  </a>
+<h1>SHAIKH NABIL AHMED</h1>
 
-  <br/><br/>
+<p><i>Where machine learning leaves the notebook and enters the real world.</i></p>
 
-  <!-- PROFILE VISITS TELEMETRY -->
-  <img src="https://komarev.com/ghpvc/?username=heisnabil&color=38bdf8&style=flat-square&label=SYSTEM+TELEMETRY+VISITS" alt="Profile Views" />
+<br/>
+
+<a href="https://github.com/heisnabil">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&random=false&width=560&lines=Published+in+IEEE+%26+IJCST+%E2%80%94+as+an+undergraduate;94%25+accuracy+detecting+Wi-Fi+spoofing+across+Mumbai;Edge+AI+on+railway+tracks+%E2%80%94+commended+by+Thane+Railway;Multi-agent+systems+that+analyze+startups+autonomously;Department+Topper+%289.25+CGPA%29+%7C+B.E.+CSE+%28AI%2FML%29" alt="Typing" />
+</a>
+
+<br/><br/>
+
+<a href="https://nabil-ahmed-github-io.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shaikh-nabil-ahmed-3439a2285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:shaikhnabil529@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=heisnabil&color=38bdf8&style=flat-square&label=visitors" />
 
 </div>
 
@@ -40,296 +51,233 @@
 
 ---
 
-### 🧬 Executive Kernel Briefing
+```
+> nabil.init()
 
-```gdb
-[SYSTEM_INIT] Loading Shaikh Nabil Ahmed's Kernel...
-[LOCATION]     Mumbai, India
-[ACADEMICS]    B.E. CSE (AI & ML) @ AIKTC | CGPA: 9.25/10 (Department Topper)
-[RESEARCH]     2x Published Author — IEEE (Adversarial ML & Blockchain) & IJCST (Medical CNNs)
-[LEADERSHIP]   Charter President @ NeurOnyx (ACM Student Chapter)
-[HONORS]       HackArena 2.0 IIIT Delhi National Finale 2nd Runner-Up | Thane Railway Engineer Commendation
+LOCATION      Mumbai, India
+EDUCATION     B.E. Computer Science & Engineering (AI/ML) — AIKTC, 2023–2027
+STANDING      Department Topper — CGPA 9.25 / 10
+PUBLICATIONS  2 peer-reviewed papers — IEEE Conference & IJCST Journal
+LEADERSHIP    Charter President — NeurOnyx, ACM Student Chapter
+STATUS        All systems operational.
 ```
 
-> **I am a Deep Tech Engineer, Published Researcher, and Founder focused on bridging theoretical Machine Learning with high-performance, real-world production systems.**
-> 
-> My work spans **multi-agent startup analysis platforms (FounderOS)**, **IEEE-published decentralized Wi-Fi spoofing detectors with 94% real-world accuracy (WiChain)**, **satellite carbon credit verification (Carbon-Net v2)**, and **edge AI robotics commended by Thane Railway Section Engineers (TrackTech)**. I specialize in turning complex algorithms into scalable, battle-tested software.
+Two years into my CS degree, I've published in IEEE and IJCST, deployed edge AI on active railway infrastructure — earning a commendation from the Thane Railway Section Engineer — and built autonomous agent architectures where six AI agents independently analyze entire startup ecosystems.
+
+Every model I build has a deployment target. Every system I ship solves a problem that existed before I wrote the first line of code.
+
+**Spoofed Wi-Fi networks** across Mumbai. **Undetected fractures** on active railway tracks. **Unverified carbon credits** on the blockchain. **Missed anomalies** in chest X-rays.
+
+*Find a critical problem. Engineer an autonomous solution. Validate with real-world data. Ship it.*
 
 <br/>
 
 ---
 
-### ⚡ Core Engineering Philosophy
+<div align="center">
+<img src="https://img.shields.io/badge/DEPLOYED_SYSTEMS-38bdf8?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+<sub>Systems I've architected, validated, and shipped. Each one solves a problem that matters.</sub>
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Autonomous Agent Architecture</h4>
-      <p>Designing asynchronous, graph-based multi-agent networks (LangGraph & FastAPI) that synthesize multi-variable domain decisions into deterministic, actionable reports.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Mathematical ML & Deep Learning</h4>
-      <p>Architecting CNN ensembles (MobileNetV2, VGG16), LSTM forecasters, and Autoencoders validated with SHAP explainability, ROC-AUC, and k-fold cross validation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Edge Inference & Embedded AI</h4>
-      <p>Deploying low-latency computer vision pipelines (OpenCV & MobileNet) on constrained edge devices like Raspberry Pi for real-time critical infrastructure safety.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 Decentralized Trust & Smart Contracts</h4>
-      <p>Coupling AI anomaly detection engines with Proof-of-Work blockchains and Polygon smart contracts for immutable, tamper-proof audit trails.</p>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<table><tr><td>
+
+<img src="https://img.shields.io/badge/IEEE_PUBLISHED-00629B?style=flat-square" /> <img src="https://img.shields.io/badge/94%25_ACCURACY-10B981?style=flat-square" />
+
+#### WiChain — AI-Driven Wi-Fi Spoofing Detection & Blockchain Trust
+
+Detects Evil Twin attacks and rogue access points in real time using a **Random Forest classifier trained on 2,000+ real-world packet captures** from Mumbai networks. Every confirmed threat is cryptographically logged to a custom **SHA-256 Proof-of-Work blockchain**, creating an immutable, tamper-proof audit trail.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+
+[**Repository**](https://github.com/heisnabil/WiChain-The-Wifi-Threat-Detector) · [**Live System**](https://wichain-landing.vercel.app)
+
+</td></tr></table>
+
+<table><tr><td>
+
+<img src="https://img.shields.io/badge/MULTI--AGENT_AI-A78BFA?style=flat-square" /> <img src="https://img.shields.io/badge/6_AUTONOMOUS_AGENTS-10B981?style=flat-square" />
+
+#### FounderOS — Autonomous Multi-Agent Startup Analysis Engine
+
+Six specialized AI agents — CEO, CTO, Market Analyst, Financial Strategist, Marketing Lead, Competitor Intelligence — collaborate through a **LangGraph state graph** to autonomously produce comprehensive startup feasibility reports. No human in the loop. Just structured, multi-dimensional analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+[**Repository**](https://github.com/heisnabil/FounderOS) · [**Live Dashboard**](https://founder-os-indol.vercel.app)
+
+</td></tr></table>
+
+<table><tr><td>
+
+<img src="https://img.shields.io/badge/POLYGON_BLOCKCHAIN-8247E5?style=flat-square" /> <img src="https://img.shields.io/badge/SATELLITE_ML-10B981?style=flat-square" />
+
+#### Carbon-Net v2 — Satellite Carbon Verification & On-Chain Credit Validation
+
+Satellite-driven ESG platform combining **LSTM time-series forecasting**, XGBoost classification, Isolation Forest anomaly detection, and Autoencoder feature compression. Carbon credits are validated on-chain through **Polygon smart contracts**. REST APIs built with Node.js, real-time dashboards powered by Next.js and Firebase.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-111?style=flat-square) ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[**Repository**](https://github.com/heisnabil/v2)
+
+</td></tr></table>
+
+<table><tr><td>
+
+<img src="https://img.shields.io/badge/RAILWAY_ENGINEER_COMMENDATION-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/EDGE_COMPUTE-10B981?style=flat-square" />
+
+#### TrackTech — Autonomous Railway Crack Detection on Edge Hardware
+
+Autonomous inspection vehicle running **MobileNet CNN and OpenCV** on a Raspberry Pi 4 for real-time track defect detection under severe compute constraints. Not a demo — a working system that earned a **commendation from the Thane Railway Section Engineer** for practical deployment viability.
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![3D CAD](https://img.shields.io/badge/3D_CAD-000?style=flat-square)
+
+[**Repository**](https://github.com/heisnabil/TrackTech)
+
+</td></tr></table>
+
+<table><tr><td>
+
+<img src="https://img.shields.io/badge/IJCST_PUBLISHED-008080?style=flat-square" /> <img src="https://img.shields.io/badge/CNN_ENSEMBLE-10B981?style=flat-square" />
+
+#### Pneumonia & COVID-19 Detection — Deep Learning Chest X-Ray Analysis
+
+CNN ensemble combining **MobileNetV2 and VGG16** for chest X-ray binary classification, deployed as a production Flask REST API. Research published in the **International Journal of Computer Science and Technology (IJCST)**.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square) ![VGG16](https://img.shields.io/badge/VGG16-EE4C2C?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+
+[**Repository**](https://github.com/heisnabil/HealthCare-Project-Machine-Learning) · [**Live Demo**](https://health-care-project-machine-learning.vercel.app)
+
+</td></tr></table>
 
 <br/>
 
 ---
 
-### 🛸 Flagship Systems & Deep Tech Innovations
+<div align="center">
+<img src="https://img.shields.io/badge/RESEARCH_TRANSMISSIONS-a78bfa?style=for-the-badge&labelColor=0d1117" />
+</div>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>01. WiChain — AI Wi-Fi Threat & Blockchain Trust Framework</h3>
-      <p><b>IEEE Published Real-Time Wi-Fi Spoofing Detector (94% Accuracy)</b></p>
-      <p>Designed an AI cyber defense system trained on <b>2,000+ real-world packet captures</b> from Mumbai networks using Random Forest ML classification. Integrated a custom decentralized SHA-256 Proof-of-Work blockchain ledger for immutable threat logging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-SHA256-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/heisnabil/WiChain-The-Wifi-Threat-Detector"><b>View Repository »</b></a> • 
-        <a href="https://wichain-landing.vercel.app"><b>Live Dashboard »</b></a>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/ACCURACY-94%25-00C853?style=for-the-badge" alt="94% Accuracy" /><br/><br/>
-      <code>IEEE Paper Published</code>
-    </td>
-  </tr>
-</table>
+```
+PUBLICATION [01]  IEEE Conference — 2026
+TITLE             WiChain: AI-Driven Wi-Fi Spoofing Detection with Blockchain Trust Framework
+SCOPE             Adversarial ML · Decentralized Trust · Random Forest · SHA-256 PoW
+DATASET           2,000+ real-world packet captures — Mumbai public Wi-Fi networks
+ACCURACY          94%
 
-<br/>
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>02. FounderOS — Autonomous Multi-Agent Startup Feasibility Suite</h3>
-      <p><b>Graph-Based AI Co-Founder & Venture Analysis Engine</b></p>
-      <p>Multi-agent platform where specialized autonomous AI agents (CEO, CTO, Market Analyst, Financial Strategist, Competitor Intel) collaborate asynchronously via LangGraph & FastAPI to generate end-to-end feasibility reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p>
-        <a href="https://github.com/heisnabil/FounderOS"><b>View Repository »</b></a> • 
-        <a href="https://founder-os-indol.vercel.app"><b>Live System »</b></a>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/ARCHITECTURE-LANGGRAPH-38bdf8?style=for-the-badge" alt="LangGraph" /><br/><br/>
-      <code>Asynchronous Multi-Agent</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>03. Carbon-Net v2 — Satellite Carbon Verification Platform</h3>
-      <p><b>LSTM Forecasting, Anomaly Detection & Polygon Smart Contracts</b></p>
-      <p>Architected a satellite-driven ESG platform combining <b>LSTM time-series forecasting</b>, XGBoost classification, Isolation Forest anomaly detection, and Autoencoders. REST APIs (Node.js/Next.js) validate carbon credits on the Polygon blockchain.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/heisnabil/v2"><b>View Repository »</b></a>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/BLOCKCHAIN-POLYGON-8247E5?style=for-the-badge" alt="Polygon" /><br/><br/>
-      <code>Satellite ML Analytics</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>04. Railway Crack Detection (TrackTech) — Edge Vision Vehicle</h3>
-      <p><b>Commended by Thane Railway Section Engineer</b></p>
-      <p>Deployed an autonomous edge AI inspection vehicle on <b>Raspberry Pi 4</b> utilizing MobileNet CNN and OpenCV for real-time railway track defect detection under low-compute constraints.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Commended-Thane_Railway-FF9900?style=flat-square" />
-        <img src="https://img.shields.io/badge/MobileNet_CNN-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/heisnabil/TrackTech"><b>View Repository »</b></a>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/AWARD-THANE_RAILWAY-FF9900?style=for-the-badge" alt="Railway Award" /><br/><br/>
-      <code>Edge Inference Raspberry Pi</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>05. Pneumonia & COVID-19 Chest X-Ray AI Detection</h3>
-      <p><b>IJCST Journal Published Deep Learning CNN Ensemble</b></p>
-      <p>Developed a CNN ensemble combining <b>MobileNetV2 and VGG16</b> for chest X-ray classification, deployed as a REST API with Flask. Research paper published in IJCST Journal.</p>
-      <p>
-        <img src="https://img.shields.io/badge/IJCST-Published-008080?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/VGG16-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/heisnabil/HealthCare-Project-Machine-Learning"><b>View Repository »</b></a>
-      </p>
-    </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://img.shields.io/badge/JOURNAL-IJCST_PUBLISHED-008080?style=for-the-badge" alt="IJCST" /><br/><br/>
-      <code>MobileNetV2 + VGG16 Ensemble</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-### 📜 Peer-Reviewed Research Publications
-
-```http
-[PUBLICATION_01] IEEE Conference (2026)
-Title:  WiChain: AI-Driven Wi-Fi Spoofing Detection with Blockchain Trust Framework
-Focus:  Adversarial ML, Decentralized PoW Trust, Random Forest (94% Accuracy)
-
-[PUBLICATION_02] International Journal of Computer Science and Technology (IJCST)
-Title:  Pneumonia & COVID-19 Detection Using Deep Learning CNNs
-Focus:  MobileNetV2 + VGG16 CNN Ensemble, Chest X-Ray Binary Classification, Flask REST API
+PUBLICATION [02]  International Journal of Computer Science and Technology (IJCST)
+TITLE             Pneumonia & COVID-19 Detection Using Deep Learning CNNs
+SCOPE             MobileNetV2 · VGG16 · CNN Ensemble · Chest X-Ray Binary Classification
+DEPLOYMENT        Flask REST API — production-ready inference endpoint
 ```
 
 <br/>
 
 ---
 
-### 🛠️ Technical Skill Matrix
+<details>
+<summary>
+<img src="https://img.shields.io/badge/SYSTEM_ARCHITECTURE-10b981?style=for-the-badge&labelColor=0d1117" />
+&nbsp;&nbsp;<sub>Expand to see the full technical stack</sub>
+</summary>
 
 <br/>
 
 <div align="center">
 
-| Category | Technical Stack & Tools |
+| Layer | Components |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) |
-| **Machine Learning & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=flat-square) ![LSTM](https://img.shields.io/badge/LSTM-3776AB?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-00C853?style=flat-square) |
-| **Frameworks & Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square) |
-| **Databases & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=flat-square) ![LSTM](https://img.shields.io/badge/LSTM-3776AB?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-111?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-10B981?style=flat-square) ![Autoencoders](https://img.shields.io/badge/Autoencoders-A78BFA?style=flat-square) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square) |
+| **Infrastructure** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
 
+</details>
+
+<br/>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/MISSION_LOG-f59e0b?style=for-the-badge&labelColor=0d1117" />
+&nbsp;&nbsp;<sub>Achievements, certifications, and leadership</sub>
+</summary>
+
+<br/>
+
+#### Honors & Competitive Record
+
+- **Department Topper** — Highest CGPA (9.25/10) in B.E. CSE (AI/ML), AIKTC Mumbai
+- **Charter President, NeurOnyx** — Founded and led the ACM Student Chapter AI/ML club at AIKTC
+- **2nd Runner-Up** — HackArena 2.0 National Grand Finale at IIIT Delhi (qualified through Zonal round)
+- **Winner** — Slide Storm Hackathon
+- **1st Runner-Up** — SIH Internal Hackathon
+- **1st Runner-Up** — Techastra 2.0 Hackathon
+- **2nd Runner-Up** — Techastra 3.0 Hackathon
+- **2nd Runner-Up** — Creathon Hackathon
+- **Runner-Up** — Project Competition, AIKTC
+
+#### Academic Certifications
+
+- **NPTEL** — Artificial Intelligence: Concept and Technique — *IISc Bangalore*
+- **NPTEL** — Optimization in Machine Learning — *IIIT Delhi*
+- **NPTEL** — Introduction to C Programming — *IIT Kanpur*
+
+</details>
+
 <br/>
 
 ---
 
-### 📜 Academic Certifications
-
-- 🎓 **NPTEL — Artificial Intelligence: Concept and Technique** — *IISc Bangalore*
-- 🎓 **NPTEL — Optimization in Machine Learning** — *IIIT Delhi*
-- 🎓 **NPTEL — Introduction to C Programming** — *IIT Kanpur*
-
-<br/>
-
----
-
-### 🏆 Honors, Leadership & Hackathon Victories
-
-- 🏅 **Department Topper (CGPA: 9.25 / 10)** — Highest CGPA in B.E. CSE (AI/ML), AIKTC Mumbai.
-- 👑 **Charter President @ NeurOnyx** — ACM Student Chapter, AIKTC. Led technical hackathons, AI workshops & developer initiatives.
-- 🥉 **2nd Runner-Up — HackArena 2.0 National Finale at IIIT Delhi** (Qualified through Zonal Round).
-- 🥉 **2nd Runner-Up (Zonal)** — HackArena 2.0.
-- 🏆 **Winner** — Slide Storm Hackathon.
-- 🥈 **1st Runner-Up** — SIH Internal Hackathon.
-- 🥈 **1st Runner-Up** — Techastra 2.0 Hackathon.
-- 🥉 **2nd Runner-Up** — Techastra 3.0 Hackathon.
-- 🥉 **2nd Runner-Up** — Creathon Hackathon.
-- 🥈 **Runner-Up** — Project Competition, AIKTC.
-
-<br/>
-
----
-
-### 📊 Live System Telemetry & GitHub Analytics
+<div align="center">
+<img src="https://img.shields.io/badge/RUNTIME_DIAGNOSTICS-38bdf8?style=for-the-badge&labelColor=0d1117" />
+</div>
 
 <br/>
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=heisnabil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisnabil&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="370" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heisnabil&theme=tokyonight&hide_border=true" width="790" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
----
-
-### 🌐 Transmit Signals & Connect
-
-<div align="center">
-
-  <p><b>Open for high-impact AI/ML Engineering roles, research collaborations, and deep tech ventures.</b></p>
-
-  <a href="https://nabil-ahmed-github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/Official_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaikh-nabil-ahmed-3439a2285/">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shaikhnabil529@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=heisnabil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&icon_color=38bdf8&title_color=38bdf8&text_color=c9d1d9" width="420" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisnabil&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" width="350" alt="Top Languages" />
 
   <br/><br/>
 
-  <sub>Engineered with precision by <b>Shaikh Nabil Ahmed</b> • Built for the Future of AI & Systems</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heisnabil&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="420" alt="Streak" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<br/>
+
+<a href="https://nabil-ahmed-github-io.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shaikh-nabil-ahmed-3439a2285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shaikhnabil529@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<sub>Shipping AI into the real world since 2024.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:131A2A,100:0d1117&height=100&section=footer" width="100%" alt="" />
 
 </div>
